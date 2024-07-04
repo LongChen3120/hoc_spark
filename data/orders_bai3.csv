@@ -1,0 +1,50 @@
+1,101,2022-06-15,150.5,Credit Card,pending
+2,102,2022-06-16,,Cash,processing
+3,103,2022-06-17,error,PayPal,completed
+4,104,2022-06-18,180.75,Credit Card,cancelled
+1,102,2022-06-19,300.25,,pending
+6,105,2023/06/20,invalid,completed
+7,,,Cash,error
+8,108,2022-06-21,220.3,,processing
+6,102,2022-06-22,280.5,PayPal,error
+10,109,2022-06-23,175.0,Credit Card,pending
+11,110,2022-06-24,210.75,,processing
+12,101,2022-06-25,error,PayPal,completed
+13,112,2022/06/26,225.6,Credit Card,cancelled
+14,113,2022-06-27,missing,Cash,processing
+15,114,,260.75,PayPal,completed
+16,115,2022-06-30,error,Credit Card,pending
+17,116,2022-07-01,290.0,Credit Card,processing
+18,117,2022/07/02,235.25,Cash,error
+19,118,2022-07-03,invalid,Credit Card,cancelled
+20,119,2022-07-04,195.2,Credit Card,pending
+21,120,2022-07-05,missing,Cash,processing
+22,121,2022-07-06,310.75,PayPal,error
+23,122,2022-07-07,220.9,Credit Card,,cancelled
+24,123,2022-07-08,175.5,PayPal,pending
+25,124,2022-07-09,missing,Credit Card,processing
+26,,2022-07-10,340.2,Cash,completed
+27,126,2022-07-11,invalid,Credit Card,cancelled
+28,127,2022-07-12,missing,,completed
+29,128,2022-07-13,200.0,Cash,pending
+30,129,2022-07-14,270.5,error,completed
+31,130,2022-07-15,185.3,Credit Card,cancelled
+32,,2022-07-16,295.25,Credit Card,pending
+33,132,2022-07-17,210.6,Cash,processing
+34,133,2022-07-18,320.8,,completed
+35,134,2022-07-19,]#&@!,Credit Card,cancelled
+36,135,2022-07-20,missing,Cash,pending
+37,136,2022-07-21,305.4,PayPal,processing
+38,137,2022-07-22,225.9,Credit Card,completed
+39,138,2022-07-23,missing,Credit Card,,pending
+40,139,2022-07-24,290.1,Cash,processing
+41,140,2022-07-25,200.8,PayPal,completed
+42,141,2022-07-26,,Credit Card,cancelled
+43,142,2022-07-27,250.0,Cash,,pending
+44,143,2022-07-28,missing,PayPal,completed
+45,144,2022-07-29,240.2,invalid,Credit Card,cancelled
+46,145,2022-07-30,195.6,Credit Card,pending
+47,146,2022-07-31,error,Cash,processing
+48,147,2022-08-01,missing,PayPal,completed
+49,148,error,185.75,Credit Card,cancelled
+50,,2022-08-03,300.3,Cash,pending
